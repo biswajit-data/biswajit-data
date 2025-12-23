@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**biswajit-data/biswajit-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Biswajit 👋
+ 
+Mechanical Design Engineer transitioning into Data Analytics & Applied Data Science.
+ 
+### 🔧 Domain Background
+- 3+ years in Mechanical / Aerospace Design
+- Quality, FAIR inspection, GD&T, manufacturing processes
+ 
+### 📊 Data Skills
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Tableau
+- Power BI
+- Statistics & Machine Learning (basic)
+ 
+### 📌 What I Do
+- Analyze manufacturing & quality data
+- Identify defects, trends, and cost-saving opportunities
+- Build predictive models for process optimization
+ 
+### 📂 Projects
+➡️ Check my repositories below
